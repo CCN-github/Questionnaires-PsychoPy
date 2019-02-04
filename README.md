@@ -30,6 +30,8 @@ Oldfield, R. C. (1971). The assessment of handedness: The Edinburgh inventory. N
 ## Requirements
 This should work out of the box if have PsychoPy (using Python2) installed. You might need to tweak the display parameters to make everything look nice on your own screen. 
 
+Please make sure you have permission / licences to use the questionnaires before running an experiment.  
+
 ## Bugs / Improvements
 If you find bugs in this script or have suggestions for improvement, please report both here https://github.com/CCN-github/Questionnaires-PsychoPy/issues
 
