@@ -27,8 +27,14 @@ Patton Stanford Barratt 1995 Factor structure of the barratt impulsiveness scale
 - Edinburgh handedness inventory (EHI, Dutch version)
 Oldfield, R. C. (1971). The assessment of handedness: The Edinburgh inventory. Neuropsychologia, 9, 97–113.
 
+- Right-Wing Authoritarianism (RWA, 14 item Dutch version)
+Altemeyer, Bob. “The Other ‘Authoritarian Personality.’” In Advances in Experimental Social Psychology, edited by Mark P. Zanna, 30:47–92. Academic Press, 1998. 
+
+- Social Responsiveness scale (SRS, Dutch version)
+Copyright Hogrefe, Amsterdam (2008). This script gives you raw scores. Refer to your manual to convert raw into t-scores. 
+
 ## Requirements
-This should work out of the box if have PsychoPy (using Python2) installed. You might need to tweak the display parameters to make everything look nice on your own screen. 
+This should work out of the box if have PsychoPy (using Python2, tested using Psychopy v.3.0.3) installed. You might need to tweak the display parameters to make everything look nice on your own screen. 
 
 Please make sure you have permission / licences to use the questionnaires before running an experiment.  
 
