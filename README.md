@@ -4,9 +4,9 @@ This is a bundle of PsychoPy scripts that present questionnaires on screen.
 ## How to run
 Open show_questionnaires.py
 
-Enter an output directory (outdir, line 36).This is where all data will be saved to. 
+Enter an output directory (outdir, line 40).This is where all data will be saved to. 
 
-Specify window (this depends on your monitor setup, line 39)
+Specify window (this depends on your monitor setup, line 43)
 
 Run
 
