@@ -33,7 +33,7 @@ def bisbas (win, subjectnumber,outdir):
         bisbasItem = visual.TextStim(win, alignHoriz="center", text=itemText, wrapWidth=20, pos=(0,2), height=0.5,font='Lucida Sans')
         bisbasRating.setDescription(' ')
         # set the marker start position randomly to avoid possible anchoring biases 
-        x=range(4)
+        x=list(range(4))
         random.shuffle(x)
         x=x[0]
         bisbasRating.setMarkerPos(x)
